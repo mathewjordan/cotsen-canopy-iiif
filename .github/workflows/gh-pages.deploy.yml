@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      NEXT_PUBLIC_BASE_PATH: /canopy-iiif
+      NEXT_PUBLIC_BASE_PATH: /cotsen-canopy-iiif
 
     strategy:
       matrix:
