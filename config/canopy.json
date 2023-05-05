@@ -1,0 +1,18 @@
+{
+  "prod": {
+    "label": { "none": ["Cotsen"] },
+    "collection": "https://figgy.princeton.edu/collections/f5c30bc1-d602-4aae-8e05-e448dd6eefd5/manifest",
+    "featured": [
+      "https://figgy.princeton.edu/concern/scanned_resources/29eef459-5198-4674-ba62-f8bd2f072731/manifest"
+    ],
+    "metadata": ["Date"]
+  },
+  "dev": {
+    "label": { "none": ["Cotsen"] },
+    "collection": "https://figgy.princeton.edu/collections/f5c30bc1-d602-4aae-8e05-e448dd6eefd5/manifest",
+    "featured": [
+      "https://figgy.princeton.edu/concern/scanned_resources/29eef459-5198-4674-ba62-f8bd2f072731/manifest"
+    ],
+    "metadata": ["Date"]
+  }
+}
